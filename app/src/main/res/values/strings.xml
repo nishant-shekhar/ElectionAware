@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Election Aware</string>
+    <string name="about_app">About App</string>
+    <string name="today_menu">Today\'s Menu</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="student_name">Student\'s Name</string>
+    <string name="section1">Important Dates</string>
+    <string name="section2">Section 2</string>
+    <string name="section3">Section 3</string>
+    <string name="bhagalpur">Bhagalpur</string>
+    <string name="click_for_details">Click for detail description</string>
+    <string name="list_candidate">List of Candidates</string>
 </resources>

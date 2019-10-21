@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#272526</color>
+    <color name="colorPrimaryDark">#1D1C1C</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="light_white">#FCFCFC</color>
+    <color name="orange">#FF5722</color>
+    <color name="dark_grey">#4E4E4E</color>
+    <color name="light_grey">#BEBEBE</color>
+    <color name="blue">#279DFF</color>
+    <color name="black">#141414</color>
+    <color name="light_black">#363636</color>
+    <color name="pink">#EE2C72</color>
+    <color name="answered">#6596FF</color>
+    <color name="not_answered">#363535</color>
+    <color name="marked">#CDDC39</color>
+    <color name="correct_answer">#4CAF50</color>
+    <color name="wrong">#FF0000</color>
+    <color name="black_transparent">#CD0D0D0C</color>
+    <color name="blue_transparent">#B90F4666</color>
+    <color name="blu_transparent_almost">#5C0F4666</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
